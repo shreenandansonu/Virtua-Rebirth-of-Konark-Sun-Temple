@@ -13,7 +13,7 @@ The main aim of this project are
 ![Project Flow](Documentation/pics/projectflow.png)
 The project was achieved by following these steps.
 
-| ![](Documentation/pics/circuit%20diagram.png) | ![](Documentation/pics/2.png) |
+| ![](Documentation/pics/circuit%20diagram.png) | ![](Documentation/pics/circuit.png) |
 |--------------------------------|--------------------------------|
 
 
@@ -27,3 +27,9 @@ The project was achieved by following these steps.
 | ![](Documentation/pics/4.png) | ![](Documentation/pics/5.png) | ![](Documentation/pics/6.png) |
 | ![](Documentation/pics/7.png) | ![](Documentation/pics/8.png) | ![](Documentation/pics/9.png) |
 | ![](Documentation/pics/10.png) | ![](Documentation/pics/11.png) | ![](Documentation/pics/12.png) |
+
+### Behind The Scene
+
+![](Documentation/pics/bts.png)
+
+![Static Badge](https://img.shields.io/badge/Made%20With%20Love%20By-SHREENANDAN%20SAHU%20&%20SURAKSHA%20JAIN-5a189a?style=flat-square) ![Static Badge](https://img.shields.io/badge/Designed%20Developed%20&%20Made%20In-INDIA-a53860?style=flat-square) 
