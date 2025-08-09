@@ -16,16 +16,21 @@
         }
 
         body {
-            margin: 0px;
+            margin: 0;
             height: 100vh;
             display: flex;
             flex-direction: column;
-            background: url('/Documentation/pics/1.png') no-repeat center center/cover;
+            background: url('./Documentation/pics/1.png');
+            background-attachment: fixed;
+            background-position: 58%;    
+            background-size:auto;
             color: white;
             font-family: 'Oswald', sans-serif;
-        }
+
+
 
         main {
+            margin: 0;
             flex: 1;
             display: flex;
             flex-direction: column;
@@ -55,19 +60,20 @@
         }
 
         .buttons button {
-            background: rgba(255, 255, 255, 0.85);
-            color: #333;
+            background: rgba(92, 4, 26);
+            color: #ffffff;
             border: none;
             padding: 12px 25px;
             margin: 10px;
-            border-radius: 25px;
+            border-radius: 5px;
             font-size: 1.1rem;
             cursor: pointer;
             transition: all 0.3s ease;
+            font-family: 'Oswald', sans-serif;
         }
 
         .buttons button:hover {
-            background: rgba(255, 255, 255, 1);
+            background: rgb(167, 110, 4);
             transform: scale(1.05);
         }
     </style>
