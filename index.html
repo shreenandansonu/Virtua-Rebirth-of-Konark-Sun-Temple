@@ -5,9 +5,24 @@
     <meta charset="UTF-8">
     <meta name="viewport"
         content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
-
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="Virtual Rebirth of Konark Sun Temple">
+    <meta name="keywords" content="Konark, Sun Temple, Virtual Reality, VR, Heritage, Odisha, India">
+    <meta name="author" content="Shreenandan Sahu, Suraksha Jain">
     <title>KONARK | Virtual Rebirth</title>
+    <!-- Open Graph / Social Media Banner -->
+    <meta property="og:title" content="KONARK | Virtual Rebirth">
+    <meta property="og:description" content="Experience the Virtual Rebirth of Konark Sun Temple.">
+    <meta property="og:image" content="https://shreenandansonu.github.io/Virtua-Rebirth-of-Konark-Sun-Temple/Documentation/pics/1.png">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://shreenandansonu.github.io/Virtua-Rebirth-of-Konark-Sun-Temple/">
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="KONARK | Virtual Rebirth">
+    <meta name="twitter:description" content="Experience the Virtual Rebirth of Konark Sun Temple.">
+    <meta name="twitter:image" content="https://shreenandansonu.github.io/Virtua-Rebirth-of-Konark-Sun-Temple/Documentation/pics/1.png">
 
+    
     <!-- Google Font: Oswald -->
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;600&display=swap" rel="stylesheet">
     <link rel="shortcut icon" href="./Documentation/pics/icon.png" type="image/x-icon">
@@ -94,28 +109,38 @@
             margin-bottom: 20px;
             font-size: 2rem;
             color: rgb(255, 190, 13);
+            padding: 30px;
         }
 
         .gallery-container {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
             gap: 15px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
         }
 
         .gallery-container img {
-            width: 100%;
+            width: 450px;
             border-radius: 8px;
             cursor: pointer;
             transform-origin: center center;
         }
 
-        /* Animation Trigger */
-        .gallery-container img:hover {
-            transform: scale(1.05);
-            transition: transform 0.3s ease;
+        @media screen and (max-width: 768px) {
+            .gallery-container img {
+                width: 100%;
+                height: auto;
+            }
         }
 
-
+        /* Animation Trigger */
+        .gallery-container img:hover {
+            transform: scale(1.025);
+            transition: transform 0.3s ease;
+        }
     </style>
 </head>
 

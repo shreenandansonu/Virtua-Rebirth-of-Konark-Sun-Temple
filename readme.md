@@ -12,3 +12,7 @@ The main aim of this project are
 ---
 ![Project Flow](Documentation/pics/projectflow.png)
 The project was achieved by following these steps.
+
+| ![](Documentation/pics/1.png) | ![](Documentation/pics/2.png) | ![](Documentation/pics/3.png) |
+| ![](Documentation/pics/4.png) | ![](Documentation/pics/5.png) | ![](Documentation/pics/6.png) |
+| ![](Documentation/pics/7.png) | ![](Documentation/pics/8.png) | ![](Documentation/pics/9.png) |
