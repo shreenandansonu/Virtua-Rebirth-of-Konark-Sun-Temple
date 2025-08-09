@@ -5,4 +5,4 @@ The main aim of this project are
 - [x] Develop Handhold Controller to navigate
 - [x] Haptic feedback of collision
 
-![Thumbnail](documentation/pics/thumbnail.png)
+![Thumbnail](/Documentation/pics/thumbnail.png)
