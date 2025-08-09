@@ -1,4 +1,4 @@
-![Institute](https://img.shields.io/badge/Institute-IIT%20Madras-219ebc?style=flat-square) ![Project Type](https://img.shields.io/badge/Project%20Type-Virtual%20Reality-f77f00?style=flat-square) ![Category](https://img.shields.io/badge/Course-AM5511-006d77?style=flat-square) [![Demo Video](https://img.shields.io/badge/Demo-Youtube-red?style=flat-square)](https://youtu.be/iIKvO78teYw) [![Demo Video](https://img.shields.io/badge/Demo?style=flat-square)](/webapp/webapp.html) 
+![Institute](https://img.shields.io/badge/Institute-IIT%20Madras-219ebc?style=flat-square) ![Project Type](https://img.shields.io/badge/Project%20Type-Virtual%20Reality-f77f00?style=flat-square) ![Category](https://img.shields.io/badge/Course-AM5511-006d77?style=flat-square) [![Demo Video](https://img.shields.io/badge/Demo-Youtube-red?style=flat-square)](https://youtu.be/iIKvO78teYw) [![Demo](https://img.shields.io/badge/Demo?style=flat-square)](./webapp/webapp.html) 
 
 # **VIRTUAL REBIRTH OF KONARK SUN TEMPLE**
 ![Thumbnail](/Documentation/pics/thumbnail.png)
